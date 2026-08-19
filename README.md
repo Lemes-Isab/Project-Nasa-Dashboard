@@ -129,7 +129,7 @@ Dessa forma, o usuário não precisa interpretar cada gráfico isoladamente para
 
 🛠️ Tecnologias Utilizadas
 Linguagem
-🐍 Python
+Python
 Análise e tratamento de dados
 Pandas
 Visualização
